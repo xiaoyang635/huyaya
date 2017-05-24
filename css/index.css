@@ -1,0 +1,189 @@
+.header {
+  border-bottom: .02rem solid #d7d7d7;
+  position: relative;
+  width: 3.2rem;
+  height: .5rem;
+}
+.header a .head {
+  width: .85rem;
+  height: .25rem;
+  margin: .12rem 0 0 .14rem;
+}
+.header ul {
+  position: absolute;
+  right: .14rem;
+  top: .14rem;
+}
+.header ul li {
+  display: block;
+  margin: 0 .1rem;
+  float: left;
+  text-align: center;
+}
+.header ul li a {
+  display: block;
+  font-size: .16rem;
+}
+.header ul li a img {
+  padding-top: .05rem;
+  display: inline-block;
+  width: .155rem;
+  height: .16rem;
+}
+.header ul li .on {
+  padding: 0 .1rem;
+  color: #ff9000;
+  padding-bottom: .12rem;
+  border-bottom: .02rem solid #ff9000;
+}
+.banner {
+  position: relative;
+}
+.banner ul {
+  height: 1.05rem;
+}
+.banner ul li a img {
+  width: 3.2rem;
+  height: 1.05rem;
+}
+.banner .swiper-pagination {
+  position: absolute;
+  top: 0rem;
+  left: 50%;
+}
+.nav {
+  position: relative;
+  width: 3.2rem;
+  height: .52rem;
+}
+.nav img {
+  width: .23rem;
+  height: .27rem;
+  margin: .1rem 0 0 .1rem;
+}
+.nav span {
+  position: absolute;
+  left: .36rem;
+  top: .15rem;
+  font-size: .16rem;
+}
+.nav a {
+  font-size: .16rem;
+  position: absolute;
+  right: .24rem;
+  top: .15rem;
+}
+.nav a span {
+  position: absolute;
+  right: .08rem;
+  top: 0;
+}
+.body ul li {
+  float: left;
+  padding-left: .06rem;
+  position: relative;
+  width: 1.51rem;
+  height: 1.37rem;
+}
+.body ul li a img {
+  width: 1.51rem;
+  height: .85rem;
+}
+.body ul li .t_r {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: .62rem;
+  height: .19rem;
+  background: url("../img/game_full_name_998f327.png");
+}
+.body ul li .t_r .p1 {
+  color: #fff;
+  font-size: .12rem;
+  position: absolute;
+  right: .07rem;
+  top: 0;
+}
+.body ul li .b_rl .span1 {
+  position: absolute;
+  left: .1rem;
+  bottom: .55rem;
+  display: inline-block;
+  font-size: .12rem;
+  color: #fff;
+}
+.body ul li .b_rl img {
+  width: .12rem;
+  height: .12rem;
+  position: absolute;
+  left: .83rem;
+  bottom: .55rem;
+}
+.body ul li .b_rl .span2 {
+  position: absolute;
+  left: 1rem;
+  bottom: .53rem;
+  display: inline-block;
+  font-size: .12rem;
+  color: #fff;
+}
+.body ul li .p2 {
+  font-size: .12rem;
+  position: absolute;
+  left: .06rem;
+  bottom: .2rem;
+}
+.body ul .on {
+  height: 1.93rem;
+}
+.body .bot {
+  width: 3.2rem;
+  height: .12rem;
+  background: #f2f2f2;
+}
+.footer {
+  width: 3.2rem;
+  height: .62rem;
+  background: #f2f2f2;
+  font-size: .12rem;
+  text-align: center;
+  color: #999;
+}
+.footer ul {
+  margin-left: .62rem;
+}
+.footer ul li {
+  padding: 0 .08rem;
+  float: left;
+  margin: .1rem 0;
+}
+.footer ul .on {
+  border-right: .02rem solid #a499af;
+}
+.ads {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  z-index: 9999;
+}
+.ads ul li {
+  margin-bottom: .03rem;
+  position: relative;
+  width: .38rem;
+  height: .38rem;
+  background: #000;
+  opacity: .6;
+  border-radius: 10%;
+}
+.ads ul li img {
+  width: .14rem;
+  height: .14rem;
+  margin: .04rem 0 0 .1rem;
+}
+.ads ul li span {
+  position: absolute;
+  bottom: .03rem;
+  left: .06rem;
+  color: #fff;
+  font-size: .12rem;
+}
